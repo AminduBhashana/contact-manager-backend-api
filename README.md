@@ -37,7 +37,7 @@ Ensure you have the following installed on your system:
    ```
 2. Navigate to the project directory:
    ```sh
-   cd contact-management-api
+   cd contact-manager-backend-api
    ```
 3. Install the dependencies:
    ```sh
